@@ -6,3 +6,4 @@ critério de aceitação:
 - deve ser fácil de rodar/instalar 
 - a primeira fase do game deve ser completamente jogável 
 - deve ter som e suportar teclado
+-  O emulador deverá ser desenvolvido até o dia 1/07/2024
